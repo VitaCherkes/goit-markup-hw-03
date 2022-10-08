@@ -54,7 +54,6 @@ img {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    outline: 2px solid red;
   }
 
 body {
@@ -277,10 +276,6 @@ line-height: 1.19;
      display: block;
      height: 252px;
  }
- /* .footer-li{
-     padding-top: 20px;
-     padding-bottom: 60px;
- } */
 .footer-li{
     display: block;
 }
@@ -394,3 +389,16 @@ font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
 }
+.button-portfolio{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content:center
+}
+.button.secondary{
+    margin-right: 8px;
+}
+.button-portfolio:last-child{
+    
+}
+
+/* кнопкі поправіть */
