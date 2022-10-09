@@ -404,10 +404,8 @@ letter-spacing: 0.06em;
     padding-bottom: 50px;
     display: flex;
     gap: 8px;
-}
-    /* justify-content: center; */
-
-   
+    justify-content: center;
+} 
 /* .button-secondary{
     margin-left: 8px;
 } */
