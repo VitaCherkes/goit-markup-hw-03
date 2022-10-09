@@ -374,6 +374,7 @@ font-family: Roboto;
 /* кнопки портфоліо */
 .button-secondary{
     padding: 6px 22px;
+    border-radius: 4px;
     color: var(--title-text-color);
     background-color: var(--primary-white-color);
     cursor: pointer;
@@ -425,11 +426,13 @@ letter-spacing: 0.06em;
 .project:nth-last-child(-n + 3){
     margin-bottom: 0;
 }
-.project{
+.project-team{
     background-color: var(--background);
     border: 1px solid #EEEEEE;
 }
+
 .project-team{
+    border-top: 0;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 24px;
