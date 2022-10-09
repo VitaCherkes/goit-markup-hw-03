@@ -403,12 +403,14 @@ letter-spacing: 0.06em;
 .button-portfolio{
     padding-bottom: 50px;
     display: flex;
-    justify-content: center;
+    gap: 8px;
 }
+    /* justify-content: center; */
+
    
-.button-secondary{
+/* .button-secondary{
     margin-left: 8px;
-}
+} */
 /* .button-secondary:first-child{
     margin-left: 0px;
 } */
